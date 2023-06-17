@@ -4,8 +4,8 @@ import re
 from simple_chalk import chalk
 
 # 
-sitesJson = './lib/sites.json'
-notAccurate = './lib/notaccurate.txt'
+sitesJson = './data/sites.json'
+notAccurate = './data/notaccurate.txt'
 
 name: any
 
