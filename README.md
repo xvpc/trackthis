@@ -1,9 +1,9 @@
 # TrackThis
 
-### A Simple Names Tracker Made using Python.
+### A Simple Name Tracker Made using Python.
 
 Just Enter the name you want to search for,    
-And the Tool will automatically fetch the Web and find any relative links.
+And the Tool will automatically Fetch the Web and find any relative links.
 
 ```ruby
 python main.py
