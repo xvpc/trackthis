@@ -10,7 +10,7 @@ python main.py
 ```
 
 <div>
-  <img src="https://im4.ezgif.com/tmp/ezgif-4-3e90b76c72.gif" alt='Example img'>
+  <img src="https://i.ibb.co/F7M5HRk/Screenshot-14.png" alt='Example img'>
 </div>
 
 
