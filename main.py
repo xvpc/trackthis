@@ -71,8 +71,9 @@ def checkName(n):
             regex = chalk.magenta('[!] ') + chalk.blue.bold(re.search('https://([^/.]+)', mappedUrl[i])[1].capitalize())
             print(f"{regex or '-'} {chalk.cyan(mappedUrl[i])}")
         else:
-            regex = chalk.red.bold('[!] ') + chalk.blue.bold(re.search('https://([^/.]+)', mappedUrl[i])[1].capitalize())
-            print(f"{regex or '-'} {chalk.cyan(mappedUrl[i])}")
+            pass
+            # regex = chalk.red.bold('[!] ') + chalk.blue.bold(re.search('https://([^/.]+)', mappedUrl[i])[1].capitalize())
+            # print(f"{regex or '-'} {chalk.cyan(mappedUrl[i])}")
         i+=1
     
     getName()
