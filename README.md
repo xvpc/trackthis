@@ -6,6 +6,7 @@ Just Enter the name you want to search for,
 And the Tool will automatically Fetch the Web and find any relative links.
 
 ```ruby
+pip install -r requirements.txt
 python main.py
 ```
 
